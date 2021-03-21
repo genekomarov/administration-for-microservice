@@ -1,0 +1,25 @@
+{
+  "machines": [
+    {
+      "name": "main-node",
+      "login" : "admin-01",
+      "keyPath" : "C:/Users/user/.ssh/id_rsa",
+      "internal_IP": "224.168.0.1",
+      "external_IP": "192.168.0.1"
+    },
+    {
+      "name": "node-1",
+      "login" : "admin-01",
+      "internal_IP": "224.168.0.2"
+    },
+    {
+      "name": "node-2",
+      "login" : "admin-01",
+      "internal_IP": "224.168.0.3"
+    }
+  ],
+  "masterNode": "main-node",
+  "useMasterNodeKeyEverywhere" : true,
+  "buildToOS": "windows",
+  "sshConnectionFilesPath": "./connections/"
+}
