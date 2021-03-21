@@ -1,0 +1,24 @@
+{
+  "name": "administration-for-microservice",
+  "version": "0.1.0",
+  "description": "The base infrastructure for microservice application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genekomarov/administration-for-microservice.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "ts"
+  ],
+  "author": "Eugene Komarov <gene.komarov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genekomarov/administration-for-microservice/issues"
+  },
+  "homepage": "https://github.com/genekomarov/administration-for-microservice#readme"
+}
