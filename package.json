@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/genekomarov/administration-for-microservice/issues"
   },
-  "homepage": "https://github.com/genekomarov/administration-for-microservice#readme"
+  "homepage": "https://github.com/genekomarov/administration-for-microservice#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
